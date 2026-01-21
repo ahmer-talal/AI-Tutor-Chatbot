@@ -1,4 +1,4 @@
-# AI Chatbot – Groq LLaMA + Streamlit
+# AI Tutor Chatbot
 
 A professional AI chatbot built with **Groq LLaMA** and deployed via **Streamlit**.  
 The chatbot answers **AI-related queries only**, providing a clean and interactive interface for learning and testing AI concepts.
