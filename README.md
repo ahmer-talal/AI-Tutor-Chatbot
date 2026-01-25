@@ -15,3 +15,5 @@ The chatbot answers **AI-related queries only**, providing a clean and interacti
 - Easily extendable to include additional AI topics
 
 ---
+## 🎥 Project Demo
+[Click here to watch the full demo video on Drive](https://drive.google.com/file/d/1FNsT4QorxNp5xdcUdt01x2v0lxHTMPao/view?usp=sharing)
