@@ -17,3 +17,14 @@ The chatbot answers **AI-related queries only**, providing a clean and interacti
 ---
 ## 🎥 Project Demo
 [Click here to watch the full demo video on Drive](https://drive.google.com/file/d/1FNsT4QorxNp5xdcUdt01x2v0lxHTMPao/view?usp=sharing)
+
+## 📸 Screenshots
+
+### Chat Interface
+![Chat UI](assets/AI_Tutor_Chatbot_Demo.png)
+
+### 1st Query
+![1st Query](assets/1st_Query.png)
+
+### 2nd Query
+![2nd Query](assets/2nd_Query.png)
